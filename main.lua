@@ -1,3 +1,6 @@
+-- The Lift fucker made by timkaMLG
+-- thanks CatOnTheWall for no damage fall script
+-- destroy the fuck out this game i hate it :)
 _l7XCEbGpCkrEBF84, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
